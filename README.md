@@ -4,8 +4,10 @@ In this notebook, you can explore how different optimization algorithms behave w
 
 The implemented algorithms include:
 
-Gradient Descent
-Momentum
+Stochastic Gradient Descent (SGD)
+
+SGD with Momentum
+
 Nesterov Momentum
 
 Interactive widgets allow you to adjust key parameters such as:
